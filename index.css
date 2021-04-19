@@ -1,0 +1,9 @@
+body {
+    width: 100vh;
+    height: 100vh;
+    background-image: radial-gradient(ellipse farthest-corner at 45px 45px , #ac0f0f57 0%, rgba(0, 0, 255, 0) 50%, #0000FF 95%);
+  } 
+.Centrar{
+    text-align: right;
+    color: red;
+}
